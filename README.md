@@ -12,7 +12,7 @@ I'm a second-year student majoring in **Information Technology**, with a special
 ### 📚 Interests:
 - I love learning about various fields, including **natural sciences** and exploring the world around me.
 - I am always curious and strive to make decisions based on **evidence**.
-- Outside of coding, I enjoy discovering new things and find out how things work.
+- Outside of coding, I enjoy discovering new things and find out how things work.ffwefdasasda
 
 
 <!--
